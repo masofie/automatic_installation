@@ -27,7 +27,7 @@ Le cambiamos el nombre a la máquina virtual como se ve en la imagen
 
 ## 2. Red NAT
 
-## 2.1 Características 
+### 2.1 Características 
 
 Crear una red NAT con las siguientes características
 
@@ -40,3 +40,18 @@ Crear una red NAT con las siguientes características
 Y añadimos la máquina a la red ISO . Como podemos ver en la siguiente imagen , ya esta añadido correctamente
 
 ![Red NAT - Añadida](./img/1_controlador_dominio/5_maquina_red_nat_m.png)
+
+
+## 3. Instalación de Dominio
+
+### 3.1 Configuración de Red 
+
+Establecer la siguiente configuración IP en el servidor
+
+- **Dirección IP estática:** 192.168.1.4
+- **Mascara :** 255.255.255.0
+- **Puerta de enlace :** 192.168.1.1
+- **DNS preferido :** 192.168.1.4
+- **DNS alternativo :** 8.8.8.8
+
+![Instalación de Dominio - Configuración de Red](./img/1_controlador_dominio/6_dominio_ip_server.png)
