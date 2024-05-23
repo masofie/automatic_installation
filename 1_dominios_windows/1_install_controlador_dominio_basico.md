@@ -14,3 +14,7 @@ Un **Controlador de Dominio en Windows Server** es un servidor que administra la
 Modificamos la memoria base vamos a utilizar , y añadimos 4GB para que este mejor 
 
 ![Máquina Virtual - Memoria Base](./img/1_controlador_dominio/1_maquina_memoria_base.png)
+
+Almacenamiento del disco duro , es de 100GB
+
+![Máquina Virtual - Disco Duro](./img/1_controlador_dominio/2_maquina_disco_base.png)
