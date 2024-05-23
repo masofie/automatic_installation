@@ -34,5 +34,9 @@ Crear una red NAT con las siguientes características
 - **Nombre :** ISO
 - **Red :** 192.168.1.0
 - **Mascara :** 255.255.255.
-- 
+
 ![Red NAT - Características](./img/1_controlador_dominio/4_maquina_red_nat.png)
+
+Y añadimos la máquina a la red ISO . Como podemos ver en la siguiente imagen , ya esta añadido correctamente
+
+![Red NAT - Añadida](./img/1_controlador_dominio/5_maquina_red_nat_m.png)
