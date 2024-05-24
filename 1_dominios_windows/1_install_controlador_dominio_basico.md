@@ -55,3 +55,9 @@ Establecer la siguiente configuración IP en el servidor
 - **DNS alternativo :** 8.8.8.8
 
 ![Instalación de Dominio - Configuración de Red](./img/1_controlador_dominio/6_dominio_ip_server.png)
+
+Instala un dominio raíz en Windows Server 2016 denominado asir.local
+
+Para ello deberás agregar el rol de **“Servicios de dominio de Active Directory”** y el rol **“Servidor DNS”**
+
+![Instalación de Dominio - DNS y Controlador](./img/1_controlador_dominio/7_dominio_dns_controlador.png)
