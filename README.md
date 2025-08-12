@@ -1,8 +1,11 @@
 # Instalacion automatica de Prograas en Microsoft
 <br>
 
+
+Repositorio para aprender a usar herramientas de automatización para instalar varios programas a la vez en Windows .
+
+<br>
+
 📂 Contenido 
 
-En Implantación de Sistemas Operativos en Red aprenderemos usar Dominios en Windows y Linux con Samba y una introdución pequeña deArchLinux , Docker
-
-- [Ninite](./1_dominios_windows/README.md)
+- [Ninite](./contenido/1_ninite.md)
