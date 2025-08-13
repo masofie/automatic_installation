@@ -12,7 +12,7 @@
 
 **``Ninite``** es una herramienta que automatiza la instalación de múltiples programas sin necesidad de hacer clic en cada instalador. 
 
-**``Ninite``** no es un programa que ``“instales”`` como tal, sino una herramienta que descargas desde su web para instalar y actualizar varias aplicaciones en Windows de forma automática.
+**``Ninite``** no es un programa que ``instales`` como tal, sino una herramienta que descargas desde su web para instalar y actualizar varias aplicaciones en Windows de forma automática.
 
 <br>
 
