@@ -9,3 +9,4 @@ Repositorio para aprender a usar herramientas de automatización para instalar v
 📂 Contenido 
 
 - [Ninite](./contenido/1_ninite.md)
+- [Chocolatey](./contenido/2_chocolatey.md)
