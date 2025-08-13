@@ -25,7 +25,7 @@
 Abre tu navegador y entra en [Dowload](https://ninite.com.)
 
 
-[Pagina oficial](./img/img_ninite/1_dowload_ninite.png)
+![Pagina oficial](./img/img_ninite/1_dowload_ninite.png)
 <br><br>
 
 
@@ -34,7 +34,7 @@ Abre tu navegador y entra en [Dowload](https://ninite.com.)
 
 En la página verás una lista de aplicaciones (navegadores, utilidades, reproductores, etc.). Marca las casillas de los programas que desees instalar.
 
-[Lista de Paquetes](./img/img_ninite/2_lista_paquetes.png)
+![Lista de Paquetes](./img/img_ninite/2_lista_paquetes.png)
 <br><br>
 
 
@@ -43,14 +43,14 @@ En la página verás una lista de aplicaciones (navegadores, utilidades, reprodu
 
 Haz clic en el botón ``Get Your Ninite`` al final de la página. 
 
-[Get your](./img/img_ninite/3_get_your.png)
+![Get your](./img/img_ninite/3_get_your.png)
 <br><br>
 
 
 
 4 - Nos mostrará los paquetes seleccionados e iniciamos la descarga 
 
-[Iniciar descarga](./img/img_ninite/4_lista_paquetes_confirmados.png)
+![Iniciar descarga](./img/img_ninite/4_lista_paquetes_confirmados.png)
 <br><br>
 
 
@@ -59,7 +59,7 @@ Haz clic en el botón ``Get Your Ninite`` al final de la página.
 
 Haz doble clic en el archivo descargado. Ninite instalará los programas seleccionados automáticamente, sin pedir confirmaciones y sin añadir programas extra.
 
-[Ejecutar instalador](./img/img_ninite/5_iniciar_ninite.png)
+![Ejecutar instalador](./img/img_ninite/5_iniciar_ninite.png)
 <br><br>
 
 
@@ -68,4 +68,4 @@ Haz doble clic en el archivo descargado. Ninite instalará los programas selecci
 
 Cuando acabe, verás el mensaje ``Finished``. Los programas quedarán listos para usar.
 
-[Paquetes instalados](./img/img_ninite/6_paquetes_instalados.png)
+![Paquetes instalados](./img/img_ninite/6_paquetes_instalados.png)
