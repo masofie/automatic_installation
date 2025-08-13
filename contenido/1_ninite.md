@@ -2,12 +2,12 @@
 <br>
 
 - [🚀 Instalación de Programas en Windows con ``Ninite``](#-instalación-de-programas-en-windows-con-ninite)
-  - [🖥️ 1. Ninite](#️-1-ninite)
-    - [1.1 Instalación](#11-instalación)
+  - [📚  Definición](#--definición)
+  - [🖥️ 1. Descarga e Instalación](#️-1-descarga-e-instalación)
 
 <br>
 
-## 🖥️ 1. Ninite
+## 📚  Definición
 <br>
 
 **``Ninite``** es una herramienta que automatiza la instalación de múltiples programas sin necesidad de hacer clic en cada instalador. 
@@ -17,7 +17,7 @@
 <br>
 
 
-### 1.1 Instalación
+## 🖥️ 1. Descarga e Instalación
 <br>
 
 1 - Ir a la página oficial:
