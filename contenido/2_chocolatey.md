@@ -3,7 +3,7 @@
 
 - [🚀 Instalación de Programas en Windows con Chocolatey](#-instalación-de-programas-en-windows-con-chocolatey)
   - [📦 Chocolatey](#-chocolatey)
-    - [1. Instalación](#1-instalación)
+  - [1. Instalación](#1-instalación)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-### 1. Instalación 
+## 1. Instalación 
 <br>
 
 
