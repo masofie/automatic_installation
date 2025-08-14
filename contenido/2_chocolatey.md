@@ -38,20 +38,17 @@ Busca PowerShell en el menú, haz clic derecho y selecciona "Ejecutar como admin
 Para permitir la instalación de scripts, copia y ejecuta este comando para ver tu política actual:
 
 ~~~~
+# Politicas de Ejecución
 Get-ExecutionPolicy
+
+# Clausula
+Restricted
 ~~~~
+
 
 ![Comando policy](./img/img_chocolatey/3_set-execution_policy.png)
 <br><br>
 
-
-3 - Ejecutamos el comando 
-
-~~~~
-Restricted
-~~~~
-
-<br><br>
 
 
 4 - Cambiar la política de ejecución:
