@@ -27,7 +27,7 @@
 
 
 
-2 - Abrir ``PowerShell`` en el menú, haz clic derecho y selecciona **``Ejecutar como administrador``*``*
+2 - Abrir ``PowerShell`` en el menú, haz clic derecho y selecciona **``Ejecutar como administrador``**
 
 ![Powershell admin](./img/img_chocolatey/2_admin_powershell.png)
 <br><br>
