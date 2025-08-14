@@ -11,7 +11,7 @@
 ## 📦 Chocolatey
 <br>
 
-**``Chocolatey``** es un gestor de paquetes para Windows, similar a ``apt`` en Linux. Permite instalar y gestionar programas desde la terminal ``PowerShell``
+**``Chocolatey``** es un gestor de paquetes para Windows, similar a ``apt`` en Linux. Permite instalar y gestionar programas desde la terminal (cmd) ``PowerShell`` . 
 
 <br>
 
