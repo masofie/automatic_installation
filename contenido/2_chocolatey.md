@@ -110,7 +110,7 @@ choco -?
 <br>
 
 
-7 - Buscar paquetes para instalar:
+1 - Buscar paquetes para instalar:
 
 Usa el comando para buscar paquetes. Espera a que termine la instalación.
 
@@ -120,7 +120,7 @@ Usa el comando para buscar paquetes. Espera a que termine la instalación.
 
 
 
-8 - Instalar paquetes. Para instalar un programa, usa:
+2 - Instalar paquetes. Para instalar un programa, usa:
 
 ~~~~
 choco install firefox
@@ -131,6 +131,6 @@ choco install firefox
 
 
 
-9 - 🎉 ¡Listo! Con estos método esta correctamente instalado
+3 - 🎉 ¡Listo! Con estos método esta correctamente instalado
 
 ![Firefox instalado](./img/img_chocolatey/10_firefox_instalado.png)
