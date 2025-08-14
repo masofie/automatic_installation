@@ -27,7 +27,7 @@
 
 
 
-2 - Abrir ``PowerShell`` en el menú, haz clic derecho y selecciona **Ejecutar como administrador**
+2 - Abrir ``PowerShell`` en el menú, haz clic derecho y selecciona **``Ejecutar como administrador``*``*
 
 ![Powershell admin](./img/img_chocolatey/2_admin_powershell.png)
 <br><br>
@@ -132,3 +132,25 @@ choco install firefox
 3 - 🎉 ¡Listo! Con estos método esta correctamente instalado
 
 ![Firefox instalado](./img/img_chocolatey/10_firefox_instalado.png)
+
+
+
+4 - Si queremos tener las ``office`s`` copiamos el comando en choco
+
+![Comando copiado choco](./img/img_chocolatey/11_copiado_office.png)
+
+
+
+5 - En el ``powershel`` ejecutamos el comando para la instalación
+
+~~~~
+choco install node.js
+~~~~
+
+![Comando cmd choco](./img/img_chocolatey/12_cmd_office.png)
+
+
+
+6 - Aquí tenemos el paquete instalado correctamente en nuestro equipo
+
+![Office instalado](./img/img_chocolatey/13_office_instalado.png)
