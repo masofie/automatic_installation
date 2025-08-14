@@ -41,7 +41,7 @@ Para permitir la instalación de scripts, copia y ejecuta este comando para ver 
 Get-ExecutionPolicy
 ~~~~
 
-![Powershell admin](./img/img_chocolatey/2_admin_powershell.png)
+![Comando policy](./img/img_chocolatey/3_set-execution_policy.png)
 <br><br>
 
 
