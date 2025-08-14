@@ -100,7 +100,7 @@ Escribe choco en la terminal para ver que está instalado y obtener la ayuda con
 choco -?
 ~~~~
 
-![Comando choco help](./img/img_chocolatey/7_choco_help.png)
+![Comando choco versión](./img/img_chocolatey/7_choco_version.png)
 <br><br>
 
 
