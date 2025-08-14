@@ -3,7 +3,8 @@
 
 - [🚀 Instalación de Programas en Windows con Chocolatey](#-instalación-de-programas-en-windows-con-chocolatey)
   - [📦 Chocolatey](#-chocolatey)
-  - [1. Instalación](#1-instalación)
+    - [1. Instalación](#1-instalación)
+    - [2. Instalación de Programas](#2-instalación-de-programas)
 
 <br>
 
@@ -14,11 +15,11 @@
 
 <br>
 
-## 1. Instalación 
+### 1. Instalación 
 <br>
 
 
-1 - Ve a la página oficial [Chocolatey](https://chocolatey.org/install) y sigue los pasos .
+1 - Ve a la página oficial de [Chocolatey](https://chocolatey.org/install) , sigue los pasos marcados.
 
 ![Explicación inicial](./img/img_chocolatey/1_explicacion_inicial.png)
 <br><br>
@@ -26,7 +27,7 @@
 
 
 
-2 - Abrir PowerShell como administrador:
+2 - Abrir ``PowerShell`` como administrador:
 
 Busca PowerShell en el menú, haz clic derecho y selecciona "Ejecutar como administrador".
 
@@ -56,7 +57,7 @@ Restricted
 
 3 - Cambiar la política de ejecución:
 
-Cambia la política para permitir la ejecución de scripts firmados , Confirma escribiendo S (Sí) cuando te pregunte.
+Cambia la política para permitir la ejecución de scripts firmados , Confirma escribiendo ``S (Sí)`` cuando te pregunte.
 
 ~~~~
 Set-ExecutionPolicy AllSigned
@@ -105,13 +106,13 @@ choco -?
 
 
 
+### 2. Instalación de Programas
+<br>
+
+
 7 - Buscar paquetes para instalar:
 
 Usa el comando para buscar paquetes. Espera a que termine la instalación.
-
-~~~~
-choco install firefox
-~~~~
 
 ![Comando copiado firefox](./img/img_chocolatey/8_copiar_comando_firefox.png)
 <br><br>
