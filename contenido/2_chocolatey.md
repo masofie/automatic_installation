@@ -89,3 +89,47 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ![Comando process](./img/img_chocolatey/6_comando_ejecucion.png)
 <br><br>
+
+
+
+6 - Verificar instalación:
+
+Escribe choco en la terminal para ver que está instalado y obtener la ayuda con
+
+~~~~
+choco -?
+~~~~
+
+![Comando choco help](./img/img_chocolatey/7_choco_help.png)
+<br><br>
+
+
+
+7 - Buscar paquetes para instalar:
+
+Usa el comando para buscar paquetes. Espera a que termine la instalación.
+
+~~~~
+choco install firefox
+~~~~
+
+![Comando copiado firefox](./img/img_chocolatey/8_copiar_comando_firefox.png)
+<br><br>
+
+
+
+
+8 - Instalar paquetes. Para instalar un programa, usa:
+
+~~~~
+choco install firefox
+~~~~
+
+![Comando ejecucion firefox](./img/img_chocolatey/9_copiar_comando_firefox_cmd.png)
+<br><br>
+
+
+
+9 - 🎉 ¡Listo! Con estos método esta correctamente instalado
+
+![Firefox instalado](./img/img_chocolatey/10_firefox_instalado.png)
