@@ -71,9 +71,8 @@ Set-ExecutionPolicy AllSigned
 4 - Permitir la ejecución temporal para este proceso. Para evitar problemas, ejecuta este comando:
 
 ~~~~
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+ExecutionPolicy Bypass -Scope Process
 ~~~~
-
 
 ![Comando process](./img/img_chocolatey/5_set-execution_process.png)
 <br><br>
@@ -84,6 +83,9 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Copia y ejecuta el script de instalación oficial desde la página de Chocolatey.
 
+~~~~
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+~~~~
 
 ![Comando process](./img/img_chocolatey/6_comando_ejecucion.png)
 <br><br>
