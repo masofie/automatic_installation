@@ -1,8 +1,8 @@
-# Instalacion automatica de Prograas en Microsoft
+# Instalación automatica de Programas en Microsoft
 <br>
 
 
-Repositorio para aprender a usar herramientas de automatización para instalar varios programas a la vez en Windows .
+Repositorio para aprender a usar herramientas de automatización para instalar varios programas a la vez en Windows.
 
 <br>
 
